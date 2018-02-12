@@ -1,6 +1,6 @@
 # atom-linter-marlint
 
-> [Linter](https://github.com/atom-community/linter) for [Marlint](https://github.com/traveloka/javascript/packages/marlint)
+> [Linter](https://github.com/atom-community/linter) for [Marlint](https://github.com/traveloka/javascript/tree/master/packages/marlint)
 
 ![](https://github.com/traveloka/javascript/raw/master/packages/atom-linter-marlint/screenshot.png)
 
